@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My FirstApp</string>
+
+    <string name="txtTitle">ป้ายจราจร</string>
+    <string name="moreInfo">More Info</string>
+    <string name="aboutme">About Me</string>
+
+</resources>
